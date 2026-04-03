@@ -123,8 +123,3 @@ It demonstrates how transformer-based models can be adapted to real-world text c
 - Hyperparameter tuning  
 - Try advanced models (RoBERTa, DistilBERT)  
 - Train on GPU  
-
-
-
-# Run the notebook
-jupyter notebook
